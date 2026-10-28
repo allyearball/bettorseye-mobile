@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">BettorsEye</string>
+    <string name="title_activity_main">BettorsEye</string>
+    <string name="package_name">com.bettorseye.app</string>
+    <string name="custom_url_scheme">com.bettorseye.app</string>
+</resources>

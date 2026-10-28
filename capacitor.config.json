@@ -1,0 +1,19 @@
+{
+  "appId": "com.bettorseye.app",
+  "appName": "BettorsEye",
+  "webDir": "www",
+  "server": {
+    "url": "https://bettorseye.com/?app=1",
+    "cleartext": false,
+    "errorPath": "offline.html",
+    "allowNavigation": ["bettorseye.com", "*.bettorseye.com", "odds-api-proxy.allyearball.workers.dev"]
+  },
+  "appendUserAgent": "BettorsEyeApp",
+  "backgroundColor": "#101113",
+  "ios": { "contentInset": "never", "limitsNavigationsToAppBoundDomains": false, "scheme": "BettorsEye" },
+  "android": { "allowMixedContent": false },
+  "plugins": {
+    "SplashScreen": { "launchShowDuration": 600, "backgroundColor": "#101113", "showSpinner": false },
+    "StatusBar": { "style": "DARK", "backgroundColor": "#101113", "overlaysWebView": false }
+  }
+}

@@ -1,0 +1,7 @@
+node_modules/
+*.keystore
+*.jks
+*.p8
+*.secret
+.DS_Store
+android/app/release/
