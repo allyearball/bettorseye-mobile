@@ -2,7 +2,7 @@
   "name": "bettorseye-mobile",
   "version": "1.0.0",
   "private": true,
-  "description": "The BettorsEye iPhone and Android apps: bettorseye.com in a native shell, sign-in only.",
+  "description": "The bettorseye iPhone and Android apps: bettorseye.com in a native shell, sign-in only.",
   "scripts": {
     "icons": "capacitor-assets generate --android --ios --iconBackgroundColor '#101113' --iconBackgroundColorDark '#101113' --splashBackgroundColor '#101113' --splashBackgroundColorDark '#101113'",
     "sync": "cap sync"

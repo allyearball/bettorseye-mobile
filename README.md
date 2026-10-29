@@ -1,4 +1,4 @@
-# The BettorsEye phone apps
+# The bettorseye phone apps
 
 The iPhone and Android apps are bettorseye.com inside a native shell, built with Capacitor 8.
 
