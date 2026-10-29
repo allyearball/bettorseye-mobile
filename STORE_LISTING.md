@@ -1,4 +1,4 @@
-# bettorseye: what to type into App Store Connect and Google Play
+# BettorsEye: what to type into App Store Connect and Google Play
 
 Everything here is written for the app as built: you sign in, and that's all. No prices, no plans,
 no "subscribe" and no links out to sportsbooks. Don't add any of those words to the listing either.
@@ -6,7 +6,7 @@ Apple and Google read the listing as part of the app.
 
 ## Both stores
 
-- **App name:** bettorseye
+- **App name:** BettorsEye
 - **Subtitle (Apple, 30 characters max):** Player props, explained
 - **Short description (Google, 80 characters max):** See how often a player prop hits and how each book prices it.
 - **Category:** Sports
@@ -16,7 +16,7 @@ Apple and Google read the listing as part of the app.
 
 **Full description:**
 
-> bettorseye is a research tool for sports bettors who are 21 or older. For every player prop on
+> BettorsEye is a research tool for sports bettors who are 21 or older. For every player prop on
 > tonight's NFL, NBA, MLB and WNBA games, it shows:
 >
 > - how often the player has gone over or under that line, in his last 10 games and this season
@@ -27,8 +27,8 @@ Apple and Google read the listing as part of the app.
 > Save the bets you like, build a parlay and check how its legs move together, then see how your
 > saved picks did.
 >
-> bettorseye doesn't take or place bets and isn't a sportsbook. Everything in the app is information
-> only, with no guarantee of results. Sign in with your bettorseye account. New to bettorseye? Learn
+> BettorsEye doesn't take or place bets and isn't a sportsbook. Everything in the app is information
+> only, with no guarantee of results. Sign in with your BettorsEye account. New to BettorsEye? Learn
 > more at bettorseye.com.
 >
 > Gambling problem? Call 1-800-GAMBLER.
@@ -37,7 +37,7 @@ Apple and Google read the listing as part of the app.
 
 ## Apple: App Review notes
 
-> bettorseye is a free companion app to the paid web service at bettorseye.com (guideline 3.1.3(f)).
+> BettorsEye is a free companion app to the paid web service at bettorseye.com (guideline 3.1.3(f)).
 > The app only signs existing members in. You can't create an account, make a purchase, or see a
 > price or a link to buy anything inside the app. Accounts are set up on our website.
 >
