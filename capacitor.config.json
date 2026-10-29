@@ -1,6 +1,6 @@
 {
   "appId": "com.bettorseye.app",
-  "appName": "BettorsEye",
+  "appName": "bettorseye",
   "webDir": "www",
   "server": {
     "url": "https://bettorseye.com/?app=1",
